@@ -4,22 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1ac442f-e27f-407a-be82-6f6b290c38fc" name="Changes" comment="Lecture1">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+    <list default="true" id="a1ac442f-e27f-407a-be82-6f6b290c38fc" name="Changes" comment="HW1">
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S1/ChatWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S1/ConnectWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S1/LoggerFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S1/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TicTacToe/GameMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TicTacToe/GameSettings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TicTacToe/GameWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/HW2/BackEndDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/HW2/BackEndProgramming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/HW2/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/HW2/FrontEndDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/HW2/FrontEndProgramming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/HW2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/HW2/task4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task1/ChatWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task1/ConsoleServerListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task1/LogServerListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task1/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task1/ServerListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task1/task1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task2/BaseListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task2/ChatWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task2/ClientListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task2/ConsoleServerListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task2/LogServerListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task2/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task2/ServerListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task2/task2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task3/BackEndProgramming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task3/FrontEndProgramming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task3/FullStackProgrammer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task3/task3.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/GameWindow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/TicTacToe/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Map.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SettingsWindow.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,11 +124,19 @@
       <option name="project" value="LOCAL" />
       <updated>1695897736174</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="HW1">
+      <created>1696588934255</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696588934255</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lecture1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lecture1" />
+    <MESSAGE value="HW1" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW1" />
   </component>
 </project>
