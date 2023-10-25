@@ -4,36 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1ac442f-e27f-407a-be82-6f6b290c38fc" name="Changes" comment="HW1">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/HW2/BackEndDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/HW2/BackEndProgramming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/HW2/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/HW2/FrontEndDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/HW2/FrontEndProgramming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/HW2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/HW2/task4.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task1/ChatWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task1/ConsoleServerListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task1/LogServerListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task1/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task1/ServerListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task1/task1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task2/BaseListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task2/ChatWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task2/ClientListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task2/ConsoleServerListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task2/LogServerListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task2/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task2/ServerListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task2/task2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task3/BackEndProgramming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task3/FrontEndProgramming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task3/FullStackProgrammer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S2/task3/task3.md" afterDir="false" />
+    <list default="true" id="a1ac442f-e27f-407a-be82-6f6b290c38fc" name="Changes" comment="HW2 + S2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/HW3/task1/task1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/HW3/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/HW3/task2/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/HW3/task2/task2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/HW3/task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/HW3/task3/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/HW3/task3/task3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task1/GenericClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task1/task1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task2/GenericArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task2/task2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task3/GenericIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task3/task3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task4/Club.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task4/Idle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task4/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task4/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task4/Workplace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task4/task4.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +68,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Program">
+  <component name="RunManager" selected="Application.org.example.S3.HW3.task3.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.TicTacToe.Main" />
       <module name="GB_JDK" />
@@ -101,8 +95,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="org.example.S2.HW2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.S2.HW2.Main" />
+      <module name="GB_JDK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.S2.HW2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.S3.HW3.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.S3.HW3.task2.Main" />
+      <module name="GB_JDK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.S3.HW3.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.S3.HW3.task3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.S3.HW3.task3.Main" />
+      <module name="GB_JDK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.S3.HW3.task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example.S3.HW3.task3.Main" />
+        <item itemvalue="Application.org.example.S3.HW3.task2.Main" />
+        <item itemvalue="Application.org.example.S2.HW2.Main" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.Main" />
       </list>
@@ -131,12 +167,20 @@
       <option name="project" value="LOCAL" />
       <updated>1696588934255</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="HW2 + S2">
+      <created>1697375390003</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697375390003</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lecture1" />
     <MESSAGE value="HW1" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW1" />
+    <MESSAGE value="HW2 + S2" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW2 + S2" />
   </component>
 </project>
