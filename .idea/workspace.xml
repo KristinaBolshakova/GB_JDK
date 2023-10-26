@@ -4,31 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1ac442f-e27f-407a-be82-6f6b290c38fc" name="Changes" comment="HW2 + S2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/HW3/task1/task1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/HW3/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/HW3/task2/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/HW3/task2/task2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/HW3/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/HW3/task3/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/HW3/task3/task3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task1/GenericClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task1/task1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task2/GenericArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task2/task2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task3/GenericIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task3/task3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task4/Club.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task4/Idle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task4/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task4/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task4/Workplace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/task4/task4.md" afterDir="false" />
+    <list default="true" id="a1ac442f-e27f-407a-be82-6f6b290c38fc" name="Changes" comment="HW3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/S3/HW3/task2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/HW3/task2/Task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,13 +46,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.org.example.S3.HW3.task3.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.TicTacToe.Main" />
+  <component name="RunManager" selected="Application.GenericArray">
+    <configuration name="GenericArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.S3.HW3.task1.GenericArray" />
       <module name="GB_JDK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.TicTacToe.*" />
+          <option name="PATTERN" value="org.example.S3.HW3.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.org.example.S3.HW3.task3.Main" />
+        <item itemvalue="Application.GenericArray" />
         <item itemvalue="Application.org.example.S3.HW3.task2.Main" />
+        <item itemvalue="Application.org.example.S3.HW3.task3.Main" />
         <item itemvalue="Application.org.example.S2.HW2.Main" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -174,13 +152,21 @@
       <option name="project" value="LOCAL" />
       <updated>1697375390003</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="HW3">
+      <created>1698261779640</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698261779640</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lecture1" />
     <MESSAGE value="HW1" />
     <MESSAGE value="HW2 + S2" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW2 + S2" />
+    <MESSAGE value="HW3" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW3" />
   </component>
 </project>
