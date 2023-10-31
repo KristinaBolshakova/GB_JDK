@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1ac442f-e27f-407a-be82-6f6b290c38fc" name="Changes" comment="HW3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S4/HW4/EmployeeDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S4/HW4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S4/HW4/taskHW.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S4/task1/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S4/task1/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/S4/task1/taskS4.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/S3/HW3/task2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/S3/HW3/task2/Task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +51,12 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.GenericArray">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Учеба\GeekBrains\17 Java Development Kit\GB_JDK\src\main\java\org\example\S4\task1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="GenericArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.S3.HW3.task1.GenericArray" />
       <module name="GB_JDK" />
@@ -60,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.S1.Program" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.S4.HW4.Main" />
       <module name="GB_JDK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.S1.*" />
+          <option name="PATTERN" value="org.example.S4.HW4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.GenericArray" />
         <item itemvalue="Application.org.example.S3.HW3.task2.Main" />
         <item itemvalue="Application.org.example.S3.HW3.task3.Main" />
         <item itemvalue="Application.org.example.S2.HW2.Main" />
-        <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698261779640</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="HW3">
+      <created>1698328163209</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698328163209</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
